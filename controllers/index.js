@@ -35,3 +35,8 @@ var themSinhVien = function () {
 };
 
 renderSinhVien();
+
+
+var capnhatThongtin = function(){
+  console.log("cap nhat");
+}
