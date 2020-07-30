@@ -34,4 +34,8 @@ var themSinhVien = function () {
   console.log("thêm sinh viên");
 };
 
+var xoaSinhVien = function () {
+  console.log("Xóa sinh viên");
+};
+
 renderSinhVien();
