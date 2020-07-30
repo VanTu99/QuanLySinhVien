@@ -34,13 +34,25 @@ var themSinhVien = function () {
   console.log("thêm sinh viên");
 };
 
+var xoaSinhVien = function () {
+  console.log("Xóa sinh viên");
+};
+
 renderSinhVien();
 
+var capnhatThongtin = function () {
+  console.log("cap nhat");
+};
 
-var capnhatThongtin = function(){
+//Moi
+var them2SinhVien = function () {
+  console.log("Thêm 1");
+};
+//Cap nhật 1
+var capnhatThongtin = function () {
   console.log("cap nhat");
 }
 // user B
 var capnhatThongtin1 = function(){
   console.log("cap nhat");
-}
+};
