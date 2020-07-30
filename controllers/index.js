@@ -30,4 +30,8 @@ var renderSinhVien = function () {
     });
 };
 
+var themSinhVien = function () {
+  console.log("thêm sinh viên");
+};
+
 renderSinhVien();
