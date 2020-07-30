@@ -48,3 +48,7 @@ var capnhatThongtin = function () {
 var them2SinhVien = function () {
   console.log("Thêm 1");
 };
+//Cap nhật 1
+var capnhatThongtin = function () {
+  console.log("cap nhat");
+};
