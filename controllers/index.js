@@ -40,7 +40,11 @@ var xoaSinhVien = function () {
 
 renderSinhVien();
 
-
-var capnhatThongtin = function(){
+var capnhatThongtin = function () {
   console.log("cap nhat");
-}
+};
+
+//Moi
+var them2SinhVien = function () {
+  console.log("Thêm 1");
+};
