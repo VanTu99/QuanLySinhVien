@@ -51,8 +51,12 @@ var them2SinhVien = function () {
 //Cap nhật 1
 var capnhatThongtin = function () {
   console.log("cap nhat");
-}
+};
 // user B
-var capnhatThongtin1 = function(){
+var capnhatThongtin1 = function () {
   console.log("cap nhat");
+};
+
+var abc_f = function () {
+  console.log("haha");
 };
