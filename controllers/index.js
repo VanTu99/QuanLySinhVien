@@ -39,3 +39,8 @@ var xoaSinhVien = function () {
 };
 
 renderSinhVien();
+
+
+var capnhatThongtin = function(){
+  console.log("cap nhat");
+}
