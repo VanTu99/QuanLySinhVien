@@ -40,3 +40,7 @@ renderSinhVien();
 var capnhatThongtin = function(){
   console.log("cap nhat");
 }
+// user B
+var capnhatThongtin1 = function(){
+  console.log("cap nhat");
+}
