@@ -40,6 +40,3 @@ renderSinhVien();
 var capnhatThongtin = function(){
   console.log("cap nhat");
 }
-var xemnhanvien = function(){
-  console.log("xem nhan vien");
-}
